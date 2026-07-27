@@ -1,0 +1,4 @@
+Contact: mailto:security@grandtowers.example
+Expires: 2027-07-27T14:28:03.192Z
+Preferred-Languages: en, de, fr
+Canonical: https://grandtowers.onrender.com/.well-known/security.txt
